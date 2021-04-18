@@ -1,0 +1,37 @@
+body {
+  background-color: white;
+  font-family: Comic Sans MS;
+}
+div {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  margin: 2px;
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+}
+p {
+  position: absolute;
+  background: yellow;
+  bottom: -1em;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  padding: 5px;
+  margin-right: -2px;
+  font-size: 10pt;
+}
+
+h {
+  position: absolute;
+  color: black;
+  font-size: 100pt;
+  bottom: 0em;
+}
+
+img {
+  max-height: 100%;
+  display: block;
+  margin: 0 auto;
+}

@@ -1,0 +1,22 @@
+body {
+    color: blue;
+    background: #fafad2;
+    overflow: unhidden;
+}
+
+hr {
+    height: 5px;
+    border: none;
+    background-color: tomato;
+}
+
+ul {
+    list-style-type: square;
+}
+
+img {
+  width: 400px;
+  border: 3px solid tomato;
+  padding: 10px;
+  background : white;
+}
